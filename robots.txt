@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://miorbe.github.io/RId/sitemap.RId.gz
